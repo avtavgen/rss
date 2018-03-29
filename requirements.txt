@@ -1,0 +1,5 @@
+django==1.11.10
+pillow=5.0.0
+feedparser=5.2.1
+celery==4.1.0
+django-redis==4.9.0
